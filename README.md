@@ -34,8 +34,8 @@ I'm open to collaborate on:
 - Innovative IoT solutions  
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-toqaalzoubi%40example.com-blue?style=flat&logo=gmail)](mailto:toqaalzoubi@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alzoubi_Toqa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alzoubitoqa)  
+[![Email](toqaalzoubi432@gmail.com)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Alzoubi_Toqa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alzoubitoqa](https://www.linkedin.com/in/toqa-alzoubi-9471162a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 ## ⚡ Fun Facts
 - When I'm not coding, I love tinkering with hardware components  
