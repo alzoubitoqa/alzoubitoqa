@@ -1,139 +1,153 @@
-# Hi, I'm Toqa Alzoubi 👋
+<div align="center">
 
-### AI & Robotics Engineer | Full-Stack AI Developer | Machine Learning Engineer
+# Hey, I'm Toqa Alzoubi 👋
 
-I am an **Artificial Intelligence and Robotics graduate** from **Al-Balqa Applied University**, passionate about building intelligent systems that transform real-world problems into practical, scalable solutions.
+### AI & Robotics Engineer · Full-Stack AI Developer
 
-My work combines **Machine Learning, Deep Learning, Backend Development, Web Technologies, Databases, and Embedded Systems** to create complete AI-powered applications — from model development to deployment.
+**I turn intelligent ideas into working systems — from models and APIs to real user experiences.**
 
----
+[![AI Engineering](https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge&labelColor=171717)](#what-i-build)
+[![Applied ML](https://img.shields.io/badge/Applied-Machine%20Learning-06B6D4?style=for-the-badge&labelColor=171717)](#my-toolkit)
+[![Full Stack](https://img.shields.io/badge/Full--Stack-AI%20Products-EC4899?style=for-the-badge&labelColor=171717)](#featured-work)
+[![Jordan](https://img.shields.io/badge/Based%20in-Jordan-10B981?style=for-the-badge&labelColor=171717)](#beyond-the-code)
 
-## 🚀 About Me
+<br/>
 
-* 🎓 B.Sc. in **Artificial Intelligence and Robotics**
-* 🤖 Interested in **AI Engineering, Machine Learning, Robotics, and Edge AI**
-* 💻 Building full-stack applications powered by intelligent models
-* 🧠 Experienced in developing and integrating deep learning models
-* 🌐 Interested in deploying AI solutions as accessible web and mobile applications
-* 📚 Continuously exploring advanced AI techniques and real-world applications
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toqa-alzoubi-9471162a2)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:toqaalzoubi432@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alzoubitoqa?tab=repositories)
 
----
-
-## 🛠️ Tech Stack
-
-### Artificial Intelligence & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-* Machine Learning and Deep Learning
-* Natural Language Processing
-* Predictive Modeling
-* Computer Vision
-* Data Preprocessing and Feature Engineering
-* Model Evaluation and Optimization
-* LSTM, BiLSTM, Attention Mechanisms and RNN architectures
-
-### Full-Stack Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-* RESTful API development
-* AI model integration
-* Authentication and authorization
-* Responsive frontend development
-* Full-stack application deployment
-
-### Databases & Deployment
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-
-* MongoDB Atlas
-* Database design and integration
-* JWT authentication
-* Git and GitHub version control
-* Cloud deployment using Render and Vercel
-
-### Robotics, Embedded Systems & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-* Arduino programming
-* Hardware interfacing
-* Sensor integration
-* Embedded systems development
-* Internet of Things applications
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## A little about me
 
-### 🩺 Smart Disease Diagnosis Chatbot
+I'm an **Artificial Intelligence & Robotics graduate** from **Al-Balqa Applied University** in Jordan.
 
-An AI-powered healthcare support system that analyzes user symptoms and severity levels to provide an initial disease prediction, confidence score, medical information, and precautionary recommendations.
+I enjoy building AI systems beyond the notebook: training models, connecting them to APIs, designing usable interfaces, organizing data, and bringing the entire experience to life.
 
-**Technologies:** Python, TensorFlow, BiLSTM, Attention Mechanism, FastAPI, React, JWT and MongoDB.
+My projects span **healthcare, education, sustainability, business intelligence, and computer vision**. What connects them is a simple idea: technology matters most when it solves a real problem for real people.
 
-### 🌱 Eco-Sense AI
+- 🧠 **AI mindset:** machine learning, deep learning, NLP, computer vision, and intelligent agents
+- ⚙️ **Engineering mindset:** APIs, databases, authentication, testing, and integration
+- 🌍 **Impact mindset:** accessible, practical technology with clear real-world purpose
 
-A full-stack environmental sustainability platform designed to encourage responsible environmental behavior through intelligent reporting, analytics, activity tracking, and user engagement.
+## What I build
 
-**Technologies:** React, Node.js, Express.js, MongoDB Atlas, JWT, Render and Vercel.
+| | Focus | What excites me |
+| --- | --- | --- |
+| 🧠 | **Applied AI & Deep Learning** | Turning raw data into useful predictions, insights, and decisions |
+| 🤖 | **AI Agents & RAG** | Grounding language models in knowledge and adaptive workflows |
+| 👁️ | **Computer Vision** | Connecting image understanding to real applications |
+| 💻 | **Full-Stack AI Products** | Building the frontend, backend, data layer, and model integration |
+| 🔌 | **Robotics, Edge AI & IoT** | Taking intelligent software closer to the physical world |
 
-### 🤖 AI & Robotics Applications
+## Featured work
 
-A collection of projects exploring Machine Learning, Deep Learning, Computer Vision, Embedded Systems, IoT, and intelligent automation.
+### Selected projects from idea to implementation
 
----
+| Project | What I built | Core technologies |
+| --- | --- | --- |
+| 🩺 **Smart Disease Diagnosis Chatbot** | A severity-aware preliminary symptom-assessment system with a BiLSTM model, attention, confidence-aware outputs, and a web interface | TensorFlow · BiLSTM · FastAPI · React |
+| 💊 **SmartMed — Smart Medicine Box** | A virtual four-compartment medicine box with YOLO/EasyOCR package-text verification, medication reminders, and dose tracking. Physical hardware integration is planned. | YOLO · EasyOCR · FastAPI · Express · React |
+| 🎓 **[CodeMentor AI](https://github.com/alzoubitoqa/micro-assessment-agent)** | A multi-agent RAG system that turns lecture PDFs into source-grounded micro-quizzes with adaptive feedback and instructor analytics | LangGraph · ChromaDB · Streamlit · LLMs |
+| 💎 **[Veloura](https://github.com/alzoubitoqa/veloura-smart-salon-system)** | A full-stack salon operations platform with scheduling, client loyalty, inventory monitoring, and AI-assisted business insights | React · Express · Flask · MySQL |
+| 🌱 **Eco-Sense AI** | A sustainability platform for citizen environmental reporting, urgency insights, engagement, and municipal-facing analytics | React · Node.js · MongoDB Atlas |
+| 🧠 **NeuroScan-AI** | A brain MRI classification research prototype using fine-tuned ResNet50 and Grad-CAM visual explanations | PyTorch · ResNet50 · Grad-CAM |
 
-## 🎯 Current Focus
+**More experiments:** educational tools, data mining, AI-assisted web apps, and embedded-system ideas.
 
-* Building production-ready AI applications
-* Advanced Machine Learning and Deep Learning
-* AI-powered backend systems
-* Edge AI and intelligent IoT solutions
-* Cloud deployment and scalable application architecture
-* AI research and practical innovation
+[Browse all repositories](https://github.com/alzoubitoqa?tab=repositories)
 
----
+> Healthcare projects above are **research or support prototypes**, not certified diagnostic or medication-identification devices.
 
-## 🤝 Let's Collaborate
+## My toolkit
 
-I am interested in collaborating on:
+### AI, ML & Computer Vision
 
-* Artificial Intelligence and Machine Learning projects
-* Full-stack AI-powered applications
-* Robotics and embedded systems
-* Environmental and healthcare technology
-* Intelligent IoT solutions
-* Research-driven and socially impactful projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
+`Deep Learning` · `NLP` · `BiLSTM & Attention` · `Computer Vision` · `Model Evaluation` · `YOLO` · `OCR`
 
-## 📫 Connect With Me
+### AI agents & knowledge systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toqa_Alzoubi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/toqa-alzoubi-9471162a2)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-[![Email](https://img.shields.io/badge/Email-toqaalzoubi432%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:toqaalzoubi432@gmail.com)
+`RAG` · `LangGraph` · `Vector Embeddings` · `ChromaDB` · `Prompt Engineering` · `Source-grounded Generation`
 
----
+### Full-stack engineering
 
-> **Turning intelligent ideas into real-world systems — from model development to deployment.**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-⭐ Explore my repositories to see the projects I am building.
+`REST APIs` · `JWT Authentication` · `React/Vite` · `Model Serving` · `Responsive Interfaces`
+
+### Data, deployment & hardware
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Beyond the code
+
+- 🎓 **B.Sc. in Artificial Intelligence & Robotics** — Al-Balqa Applied University
+- 💼 **AI Intern** — OSC4I / Octopian Security (2025)
+- 🏆 **North Amman Hackathon finalist** — environmental innovation with Eco-Sense AI
+- 🌍 **Aspire Leaders Program, Cohort 4 (2026)** — selected participant
+- 🔬 Interested in applied AI research, evaluation, and meaningful technology transfer
+
+## What I'm exploring now
+
+```text
+AI Agents + RAG       → more grounded, adaptive assistants
+Computer Vision      → useful verification and image understanding
+Full-Stack AI         → reliable, deployable intelligent products
+Robotics + Edge AI    → connecting software intelligence with hardware
+```
+
+I care about the full journey: **understand the problem → build the model → integrate the system → evaluate the result → improve the experience**.
+
+## Let's build something meaningful
+
+I'm open to conversations and collaborations around:
+
+- Applied AI and machine learning
+- AI agents, RAG, and educational technology
+- Computer vision and intelligent healthcare-support tools
+- Full-stack AI development
+- Robotics, embedded systems, and IoT
+- Research and social-impact innovation
+
+<div align="center">
+
+### Let's connect ✨
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toqa%20Alzoubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toqa-alzoubi-9471162a2)
+[![Email](https://img.shields.io/badge/Email-toqaalzoubi432%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toqaalzoubi432@gmail.com)
+
+<br/>
+
+**Building intelligent systems with purpose — one project at a time.**
+
+*Thanks for stopping by! Explore my repositories and follow along as I keep learning and building.*
+
+</div>
+
